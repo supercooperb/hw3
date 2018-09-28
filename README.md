@@ -17,5 +17,5 @@
  # }
 # 3. The "h" variable in the code affects the growth speed of the grass.
 # 4. The three variables of colormode affects the color of the grass. Changing HSB to RGB makes the grass more of a neon green color.
-# 5. 
+# 5. The "-10" in the second and fourth arguments of the line function makes the direction of the grass more random. Removing it from the second and fourth arguments makes the grass smoother and more likely to grow straight upwards.
   
