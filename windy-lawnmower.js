@@ -5,10 +5,11 @@ function setup() {
 
 var x = 0;
 var h = 10; // controls growth speed of grass
+height = 5
 
 function draw() {
   stroke(random(60, 70), 100, 90);
-  line(x, height-10, x + 30, height-10-random(h));
+  line(x, height-10, x + 30, height-h);
 
   x = x + 10;
 
