@@ -3,7 +3,7 @@
 # function draw() {
   # stroke(random(60, 70), 100, 90);
   # line(x, height-10, x + random(-10, 10), height-10-random(h));
-# 2. This code makes the lawnmower go by:
+# 2. This code changes the speed of the lawnmower:
 # if (random() > 0.999) 
 # 3. The "h" variable in the code affects the growth speed of the grass.
 # 4. The three variables of colormode affects the color of the grass. Changing HSB to RGB makes the grass more of a neon green color.
